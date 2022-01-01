@@ -1,0 +1,8 @@
+/target
+.DS_Store
+*.vim
+.idea
+.atom
+.vscode
+.env
+/xurl.toml
